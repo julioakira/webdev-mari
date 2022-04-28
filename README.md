@@ -1,5 +1,3 @@
-# webdev-mari
-
 # Introdução ao Desenvolvimento Web - Material Mari
 
 ## 1- Visão Técnica Sobre a Internet
